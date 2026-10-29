@@ -1,0 +1,19 @@
+{
+  "name": "ROUTER DEPT — ระบบขอลาพนักงาน",
+  "short_name": "ROUTER ลา",
+  "description": "ระบบยื่น/อนุมัติใบลาพนักงาน ROUTER DEPT — ยื่นใบลา ติดตามสถานะ ดูปฏิทินการลา และแดชบอร์ดจัดการอนุมัติ",
+  "lang": "th",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f1f5f9",
+  "theme_color": "#082f49",
+  "categories": ["business", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png",          "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png",          "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
